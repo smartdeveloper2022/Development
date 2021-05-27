@@ -4,7 +4,7 @@ public class ABC {
 private int Age;
 
 public int getAge() {
-	return Age;
+	ree;
 }
 
 public void setAge(int age) {
